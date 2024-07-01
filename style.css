@@ -1,0 +1,18 @@
+.m{
+    border-radius: 0, 5px,5px,0;
+}
+.language{
+    border-radius: 5px;
+}
+.a{
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    gap: 35px;
+}
+.q{
+    border: 2px solid black;
+}
+.b{
+    border-top: 2px solid red;
+}
